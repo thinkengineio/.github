@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/thinkengineio/.github/main/profile/thinkengine-logo.png" alt="ThinkEngine" width="160" />
+  <img src="https://raw.githubusercontent.com/thinkengineio/.github/main/profile/thinkengine-logo.png" alt="ThinkEngine" width="160" style="border: 2px solid grey;"/>
 </p>
 
 <h2 align="center">Autonomous AI-Powered Security Operations</h2>
