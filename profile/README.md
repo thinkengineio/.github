@@ -57,5 +57,5 @@ We take security seriously. See our [Security Policy](https://github.com/thinken
 **License:** [Business Source License 1.1](https://github.com/thinkengineio/agent-orchestrator/blob/main/LICENSE) — converts to Apache 2.0 after 4 years.
 
 <p align="center">
-  <sub>Copyright (c) 2024-2026 ThinkEngine.io</sub>
+  <sub>2026 ThinkEngine.io</sub>
 </p>
