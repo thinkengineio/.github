@@ -25,33 +25,6 @@
 
 ---
 
-### Key Repositories
-
-| Repo | Stack | Description |
-|------|-------|-------------|
-| [`agent-orchestrator`](https://github.com/thinkengineio/agent-orchestrator) | Python · Next.js · PostgreSQL · Redis | Core platform — AI agents, dashboard API, web UI |
-| [`sentinel-maas`](https://github.com/thinkengineio/sentinel-maas) | Go | Endpoint agent — 12 security modules, cross-platform |
-| [`darius`](https://github.com/thinkengineio/darius) | Go | DAST scanner — single binary, embedded engine |
-| [`docs`](https://github.com/thinkengineio/docs) | TypeScript | Documentation site — [docs.thinkengine.io](https://docs.thinkengine.io) |
-
----
-
-### Platform at a Glance
-
-```
-12 security modules           19 MITRE ATT&CK techniques      4 tiers (Free / Pro / Pro Max / Enterprise)
-Multi-layer auth chain        AES-256-GCM tenant encryption   AI remediation workflows
-Real-time Sofia AI chat       DAST + endpoint scanning        Homebrew tap distribution
-```
-
----
-
-### Tech Stack
-
-`Python` · `Go` · `TypeScript` · `Next.js 15` · `React 19` · `PostgreSQL 16` · `Redis 7` · `Docker` · `Terraform` · `OCI` · `Cloudflare` · `Auth0`
-
----
-
 ### Security
 
 See our [Security Policy](https://github.com/thinkengineio/agent-orchestrator/blob/main/SECURITY.md) for vulnerability reporting.
